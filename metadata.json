@@ -1,0 +1,6 @@
+{
+  "name": "Prontuario de Jurisprudencia Romana",
+  "description": "Edición digital e hipertextual del Prontuario de Jurisprudencia Romana de Bernardo Periñán Gómez con referencias interactivas entre parágrafos, previsualización emergente al situar el cursor y navegación conectada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
